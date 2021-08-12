@@ -15,7 +15,6 @@ public class HomeController
     {
         System.out.println("Hiiii");
         System.out.println("Hello");
-        "Hi";
         return Arrays.asList("Tushar","Mehul");
     }
 }
